@@ -40,6 +40,9 @@ simple refactoring of one of our importer modules.
 
 ### Intermediate
 
+[document how to set up a full development environment](https://github.com/pelias/pelias-doc/issues/55)
+We have various bits of documentation for setting up a dev instance, but it's very scattered.
+
 [fix issue with filenames in openaddresses importer](https://github.com/pelias/openaddresses/issues/23) A user recently reported having trouble
 importing data via our openaddresses importer. This code is in need of a refactoring anyway, so some
 cleanup here would be greatly appreciated.

@@ -17,6 +17,8 @@ wanted](https://waffle.io/pelias/pelias?label=help%20wanted) and [low hanging
 fruit](https://waffle.io/pelias/pelias?label=low-hanging%20fruit) labels which are a great place to
 look for tasks to take on.
 
+[Pelias Gitter chat](https://gitter.im/pelias/pelias) Public chat for anything related to the Pelias project
+
 ## Notable sub-projects
 
 [pelias/api](https://github.com/pelias/api): Our Express based API framework. Backend people go here
